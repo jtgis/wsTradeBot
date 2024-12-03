@@ -25,3 +25,7 @@ A Python script for automated day trading using Wealthsimple Trade. The script f
    git clone https://github.com/your_username/wealthsimple-day-trading-bot.git
    cd wealthsimple-day-trading-bot
 
+2. Install the required Python libraries:
+   ```bash
+   pip install yfinance pyotp wealthsimple-trade-python pandas
+
